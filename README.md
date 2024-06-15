@@ -14,4 +14,4 @@ python factdetect/prompting.py --llm_model_name [LLM Checkpoint] \
             --corpus [CORPUS] \
             --prompt_type factdetect \
             --outfilename [OUTPUT FILE]
-            ```
+   
